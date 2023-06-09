@@ -1,0 +1,4 @@
+*********** Payment List (2023_06_09) ***********
+Order ID:   1  StaffName:nina nina                       Work time:0.00  Pay:100.00
+-------------------------------------------------------
+Total payment:$100.0(1)

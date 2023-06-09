@@ -1,0 +1,6 @@
+*********** Order List (2023_06_06) ***********
+Order ID:   1  StaffName:NINA TRIAL     Total:$35.0 State:1       
+Order ID:   2  StaffName:nina nina     Total:$1315.0 State:1       
+Order ID:   3  StaffName:nina nina      Total:$36.0 State:2       
+-------------------------------------------------------
+Total sales:$1350.0  Canceled:$36.0(1)
